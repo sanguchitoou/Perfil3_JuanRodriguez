@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Evaluacion",
+    "slug": "evaluacion-movil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/MasterBall.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/MasterBall.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#F8FAFC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/MasterBall.jpg",
+        "backgroundColor": "#F8FAFC"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.sanguchito.evaluacionmovil"
+    },
+    "web": {
+      "favicon": "./assets/MasterBall.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e260bf7-5280-4433-84ca-7d342d7bc4c2"
+      }
+    }
+  }
+}
